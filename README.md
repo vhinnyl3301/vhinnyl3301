@@ -1,4 +1,4 @@
-\# 👋 Salut, moi c’est Théo Locatelli — Développeur Unity \& Game Designer
+# 👋 Salut, moi c’est Théo Locatelli — Développeur Unity \& Game Designer
 
 
 
@@ -12,15 +12,13 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 
 
-\### 🎯 À propos de moi
+### 🎯 À propos de moi
 
-\- 🎮 Développeur orienté \*\*Unity / C#\*\* avec un goût prononcé pour le \*\*Game Design\*\*  
+- 🎮 Développeur orienté **Unity / C#** avec un goût prononcé pour le **Game Design**  
 
-\- 🧠 Bon niveau en \*\*Python\*\* (scripts, automatisation, outils réseau, prototypage)  
+- 🧠 Bon niveau en **Python** (scripts, automatisation) 
 
-\- 🌐 Étudiant en \*\*BUT Réseaux \& Télécoms\*\*, passionné par les infrastructures et la connectivité  
-
-\- 🚀 Toujours en quête d’apprendre, de créer et d’optimiser  
+- 🚀 Toujours en quête d’apprendre, de créer et d’optimiser  
 
 
 
@@ -28,19 +26,19 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 
 
-\### 🛠️ Compétences principales
+### 🛠️ Compétences principales
 
-\*\*Langages :\*\* C#, Python (un peu de language web avec des projets Symfony)  
+**Langages :** C#, Python (un peu de language web avec des projets Symfony)  
 
-\*\*Moteurs :\*\* Unity (Cinemachine, Timeline, Shader Graph)  
+**Moteurs :** Unity (Cinemachine, Timeline, Shader Graph)  
 
-\*\*Outils :\*\* Git, Pycharm, VS Code, Clion, WebStorm, Blender
+**Outils :** Git, Pycharm, VS Code, Clion, WebStorm, Blender
 
 ---
 
 
 
-\### 📊 Statistiques GitHub
+### 📊 Statistiques GitHub
 
 <p align="center">
 
@@ -56,25 +54,13 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 
 
-\### 🚀 Projets récents
+### 🚀 Projets récents
 
-\- 🎮 \*\*Low Poly Terrain Generator\*\* — Générateur procédural de terrain en low poly avec bruit de Perlin \*(Unity Editor Script)\*  
+- 🎮 \*\*Low Poly Terrain Generator\*\* — Générateur procédural de terrain en low poly avec bruit de Perlin \*(Unity Editor Script)\*  
 
-\- ⚙️ \*\*Wall Jump \& Dash System\*\* — Système complet de mouvement inspiré de \*Hollow Knight\*  
+- ⚙️ \*\*Wall Jump \& Dash System\*\* — Système complet de mouvement inspiré de \*Hollow Knight\*  
 
-\- 🧠 \*\*Python Network Tools\*\* — Scripts d’analyse et d’automatisation réseau  
-
-
-
----
-
-
-
-\### 🌐 Me retrouver
-
-\[!\[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VhinnyL)
-
-\[!\[Mail](https://img.shields.io/badge/Email-222?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:theo.locatelli@example.com)
+- 🧠 \*\*Python Network Tools\*\* — Scripts d’analyse et d’automatisation réseau  
 
 
 
@@ -82,7 +68,19 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 
 
-⭐ \*« Un bon jeu n’est pas celui qui a les meilleurs graphismes, mais celui qui offre les meilleures émotions. »\*
+### 🌐 Me retrouver
+
+[!\[GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vhinnyl3301)
+
+[!\[Mail](https://img.shields.io/badge/Email-222?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:theo.locatelli@etu.univ-st-etienne.fr)
+
+
+
+---
+
+
+
+⭐ *« Un bon jeu n’est pas celui qui a les meilleurs graphismes, mais celui qui offre les meilleures émotions. »*
 
 
 
