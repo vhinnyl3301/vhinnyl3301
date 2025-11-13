@@ -2,9 +2,9 @@
 
 
 
-Passionné par la création d’expériences interactives et immersives, je conçois des jeux et prototypes en \*\*Unity\*\* avec une attention particulière portée au \*\*game feel\*\*, au \*\*level design\*\* et à la \*\*performance\*\*.  
+Passionné par la création d’expériences interactives et immersives, je conçois des jeux et prototypes en **Unity** avec une attention particulière portée au **game feel**, au **level design** et à la **performance**.  
 
-Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a l'IUT Jean Monnet a Roanne
+Je suis actuellement en formation **BUT Réseaux & Télécommunications** a l'IUT Jean Monnet a Roanne
 
 
 
@@ -56,9 +56,9 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 ### 🚀 Projets récents
 
-- 🎮 \*\*Low Poly Terrain Generator\*\* — Générateur procédural de terrain en low poly avec bruit de Perlin \*(Unity Editor Script)\*  
+- 🎮 **Low Poly Terrain Generator** — Générateur procédural de terrain en low poly avec bruit de Perlin \*(Unity Editor Script)\*  
 
-- ⚙️ \*\*Wall Jump \& Dash System\*\* — Système complet de mouvement inspiré de \*Hollow Knight\*  
+- ⚙️ \*\*Wall Jump \& Dash System\** — Système complet de mouvement inspiré de \*Hollow Knight\*  
 
 - 🧠 \*\*Python Network Tools\*\* — Scripts d’analyse et d’automatisation réseau  
 
@@ -81,6 +81,5 @@ Je suis actuellement en formation \*\*BUT Réseaux \& Télécommunications\*\* a
 
 
 ⭐ *« Un bon jeu n’est pas celui qui a les meilleurs graphismes, mais celui qui offre les meilleures émotions. »*
-
 
 
