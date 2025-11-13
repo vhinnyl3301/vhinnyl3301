@@ -34,21 +34,6 @@ Je suis actuellement en formation **BUT Réseaux & Télécommunications** a l'IU
 
 **Outils :** Git, Pycharm, VS Code, Clion, WebStorm, Blender
 
----
-
-
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-
-&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=VhinnyL\&show\_icons=true\&theme=transparent" height="150"/>
-
-&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhinnyL\&layout=compact\&theme=transparent" height="150"/>
-
-</p>
-
-
 
 ---
 
