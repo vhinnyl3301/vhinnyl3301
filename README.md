@@ -41,11 +41,11 @@ Je suis actuellement en formation **BUT Réseaux & Télécommunications** a l'IU
 
 ### 🚀 Projets récents
 
-- 🎮 **Low Poly Terrain Generator** — Générateur procédural de terrain en low poly avec bruit de Perlin \*(Unity Editor Script)\*  
+- 🎮 **Low Poly Terrain Generator** — Générateur procédural de terrain en low poly avec bruit de Perlin *(Unity Editor Script)*  
 
-- ⚙️ \*\*Wall Jump \& Dash System\** — Système complet de mouvement inspiré de \*Hollow Knight\*  
+- ⚙️ **Wall Jump & Dash System** — Système complet de mouvement inspiré de *Hollow Knight*  
 
-- 🧠 \*\*Python Network Tools\*\* — Scripts d’analyse et d’automatisation réseau  
+- 🧠 **Python Network Tools** — Scripts d’analyse et d’automatisation réseau  
 
 
 
