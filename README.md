@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Théo Locatelli — Développeur Unity \& Game Designer
+# 👋 Salut, moi c’est Théo Locatelli — Développeur & Game Designer
 
 
 
